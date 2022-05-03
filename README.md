@@ -1,3 +1,4 @@
+# Calendar
 <p>In this assignment, we consider three types of events:</p>
 <ul>
 <li>one-time events</li>
